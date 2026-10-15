@@ -1,12 +1,12 @@
-# sK1 2.0rc5 繁體中文語系（zh_TW）
+# sK1 2.0rc5 正體中文語系（zh_TW）
 
-sK1 2.0rc5 向量繪圖軟體的繁體中文（台灣用語）介面翻譯。官方版本沒有中文，這份翻譯補上全部介面字串。
+sK1 2.0rc5 向量繪圖軟體的正體中文（台灣用語）介面翻譯。官方版本沒有中文，這份翻譯補上全部介面字串。
 
 | 項目 | 內容 |
 |---|---|
 | 適用版本 | sK1 2.0rc5（翻譯範本 `sk1.pot`，建立日期 2020-02-23） |
 | 翻譯字串 | 890 條，全部完成 |
-| 語言 | 繁體中文（台灣用語），語言代碼 `zh_TW` |
+| 語言 | 正體中文（台灣用語），語言代碼 `zh_TW` |
 | 授權 | 依 sK1 專案授權（GPL v3）發布 |
 
 ## 檔案說明
@@ -93,3 +93,11 @@ msgmerge -U zh_TW.po sk1.pot
 
 - 發現翻譯錯誤或用語不妥，歡迎直接修改 `zh_TW.po`，或回報給發布者。
 - 想讓更多人用到，可以把 `zh_TW.po` 以 Pull Request 提交到 sK1 官方專案的 `po-sk1/` 資料夾（[sk1-project/sk1-wx](https://github.com/sk1-project/sk1-wx)）。開源專案只收 `.po` 原始檔，`.mo` 會在建置時自動產生。
+
+## 👤 翻譯者
+
+**林彥丞**  
+✉️ [lin.yancheng@outlook.com](mailto:lin.yancheng@outlook.com)  
+🐙 [ArtLife-Software](https://github.com/ArtLife-Software)  
+💬 [O && C VBA 研究社](https://www.facebook.com/groups/vba.club)  
+🇹🇼 中華民國台灣
