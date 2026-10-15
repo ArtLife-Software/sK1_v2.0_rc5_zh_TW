@@ -1,5 +1,7 @@
 # sK1 2.0rc5 正體中文語系（zh_TW）
 
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/sK1_v2.0_rc5_zh_TW/total?style=flat-square&logo=github)
+
 sK1 2.0rc5 向量繪圖軟體的正體中文（台灣用語）介面翻譯。官方版本沒有中文，這份翻譯補上全部介面字串。
 
 | 項目 | 內容 |
